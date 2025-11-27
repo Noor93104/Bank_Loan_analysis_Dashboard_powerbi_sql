@@ -40,9 +40,9 @@ USE BANK_LOAN;'''
 
 
 ### SQL queries include:
-**Total funded and received amounts.**
-**Average interest rate and DTI ratio**
-**Good vs Bad loan segmentation**
+**Total funded and received amounts,**
+**Average interest rate and DTI ratio,**
+**Good vs Bad loan segmentation,**
 **Month, state, term, purpose, and employment-based analysis**
 
 ### 3. Data Cleaning & Transformation
